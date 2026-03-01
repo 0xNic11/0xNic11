@@ -40,6 +40,9 @@ My focus lies in crafting **robust, production-ready ML pipelines** with a stron
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-189fdd?style=for-the-badge&logo=python&logoColor=white)
 ![Random Forest](https://img.shields.io/badge/Random_Forest-3CB371?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
 **Data & Analysis**
 
@@ -78,12 +81,15 @@ My focus lies in crafting **robust, production-ready ML pipelines** with a stron
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=0xNic11&theme=default&hide_border=true&count_private=true)
+<table width="100%"><tr>
+<td width="50%" align="center"><img width="100%" src="https://github-readme-stats-mu-weld-51.vercel.app/api?username=0xNic11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" /></td>
+<td width="50%" align="center"><img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=0xNic11&theme=tokyonight&hide_border=true" /></td>
+</tr></table>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=0xNic11&theme=default&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xNic11&layout=compact&theme=default&hide_border=true)
-
+<table width="100%"><tr>
+<td width="35%" align="center"><img width="100%" src="https://github-readme-stats-mu-weld-51.vercel.app/api/top-langs/?username=0xNic11&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" /></td>
+<td width="65%" align="center"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xNic11&theme=tokyonight" /></td>
+</tr></table>
 </div>
 
 ---
