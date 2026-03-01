@@ -16,13 +16,13 @@
 
 ## About Me
 
-I'm a passionate Machine Learning and AI practitioner with **2+ years of hands-on experience** building end-to-end intelligent systems — from raw data to deployed, monitored models.
+I'm a passionate Machine Learning and AI practitioner with **2+ years of hands-on experience** building end-to-end intelligent systems from raw data to deployed, monitored models.
 
 My focus lies in crafting **robust, production-ready ML pipelines** with a strong emphasis on reproducibility, explainability, and real-world performance. I enjoy working across the full ML lifecycle: exploratory analysis, feature engineering, model selection, threshold tuning, and robustness evaluation.
 
 - 🔭 Currently building ML projects focused on **fraud detection**, **credit risk**, and **churn prediction**
 - 🌱 Deepening expertise in **ensemble methods**, **MLOps**, and **model monitoring**
-- 🧠 I once implemented gradient descent from scratch just to make sure I *actually* understood it — turns out I didn't, then I did
+- 🧠 I once implemented gradient descent from scratch just to make sure I *actually* understood it. Turns out I didn't, then I did
 - ⚡ Firm believer that a good confusion matrix tells a better story than accuracy ever will
 - 📍 Based in **Cairo, Egypt**
 
@@ -45,13 +45,11 @@ My focus lies in crafting **robust, production-ready ML pipelines** with a stron
 
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)
 
 **Visualization**
 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
 
 **Environment & Tools**
 
@@ -80,8 +78,11 @@ My focus lies in crafting **robust, production-ready ML pipelines** with a stron
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=0xNic11&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xNic11&layout=compact&theme=default&hide_border=true&langs_count=6" />
+![](https://github-readme-stats.vercel.app/api?username=0xNic11&theme=default&hide_border=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=0xNic11&theme=default&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xNic11&layout=compact&theme=default&hide_border=true)
 
 </div>
 
@@ -89,7 +90,7 @@ My focus lies in crafting **robust, production-ready ML pipelines** with a stron
 
 ## Let's Connect
 
-I'm actively looking for **ML Engineering**, **Data Science**, or **AI** roles where I can contribute to meaningful, real-world impact.
+I'm actively looking for **ML Engineering** or **Data Science** roles where I can contribute to meaningful, real-world impact.
 
 📬 Reach me at **abdallahashraf5501@icloud.com**, via [LinkedIn](https://www.linkedin.com/in/0xNic11/), or on [Twitter/X](https://twitter.com/0xNic11) — always happy to connect.
 
